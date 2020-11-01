@@ -1,0 +1,22 @@
+Part(i)
+
+X Stands for Cross platform, ideographic letter that means we can install xampp on any Operating System.
+
+A Stands for Apache, a http server which is used to run PHP script on local machine for which we need a server.
+
+M Stands for  Mysql, is used to store knowledge in info and to perform info operation you wish Mysql
+
+P Stands for PHP which is a well known Scripting language to create dynamic website.
+
+P Stands for Perl which is a programming language.
+
+Part (ii)
+
+L-> Linux
+A-> Apache
+M-> MySql
+P-> PHP
+
+Lamp Stack is a renowned web development platform commonly used to run dynamic websites.It only supports variants Linux operating system.
+Lamp Stack’s main specialty is that it consists of Linux, Apache, MySQL, and PHP/Python/Perl. Usually Lamp Stack is selected for the construction and 
+development of high performance website owing the strong foundation it has.
