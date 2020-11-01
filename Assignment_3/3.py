@@ -1,0 +1,5 @@
+str=input("ENTER THE STRING\n")
+tur=()
+tur=str.split()
+revers=" ".join(tur[::-1])
+print(revers)
